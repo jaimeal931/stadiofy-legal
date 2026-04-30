@@ -78,5 +78,5 @@ Podemos actualizar este aviso cuando agreguemos funciones o por cambios legales.
 
 Si tienes preguntas sobre privacidad, escríbenos a:
 
-**Email:** [admin@stadiofyapp.com]
-**Stadiofy** — operada por [Jaime Anguiano Leal]
+**Email:** soporte@stadiofyapp.com
+**Stadiofy** — operada por Jaime Anguiano Leal
