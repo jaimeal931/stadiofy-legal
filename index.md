@@ -4,7 +4,7 @@
 
 ## Contacto
 
-📧 **Email**: soporte@stadiofy.app
+📧 **Email**: soporte@stadiofyapp.com
 
 Respondemos en menos de 48 horas hábiles.
 
